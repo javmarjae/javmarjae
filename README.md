@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @javmarjae
-- 👀 I’m interested in programming, cibersecurity and blockchain
-- 🌱 I’m currently learning python (django) and java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming, cibersecurity and database
+- 🌱 I’m currently learning python (django) and oracle database
+- 💞️ I’m working at NTT DATA
 - 📫 How to reach me javmarjae@gmail.com
 
 <!---
