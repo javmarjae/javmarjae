@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @javmarjae
 - 👀 I’m interested in programming and database administration
 - 🌱 I’m currently learning python (django) and oracle database
+- 💞️ I’m working at NTT DATA
 - 📫 How to reach me javmarjae@gmail.com
 
 <!---
